@@ -1,0 +1,9 @@
+[package]
+name = "slot_machine"
+version = "1.0.0"
+edition = "2024"
+
+[dependencies]
+colored = "2.2.0"
+input-rust = "1.0.0"
+rand = "0.8.5"
